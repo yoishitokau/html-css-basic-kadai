@@ -1,0 +1,44 @@
+.sample {
+  color:#87CEEB;
+}
+
+.sample2 {
+  color:rgb(255,192,203);
+}
+
+body {
+  font-family: "Arial","Meiryo",sans-serif;
+}
+
+.google-fonts {
+  text-align: center;
+  letter-spacing: 1.5em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom:3px solid rgb(115, 115, 114);
+  font-family: "Josefin Sans","sans-serif";
+}
+
+html {
+  font-size:125%;
+}
+
+h1 {
+  font-size:250%;
+}
+
+.text-pink {
+    color: rgb(255, 192, 203);
+    text-align: center;
+  }
+  .text-skyblue {
+    color:#87CEEB;
+    text-align: center;
+  }
+
+.answer {
+  text-align: center;
+}
+
+#parent {
+  font-weight: bold;
+}
