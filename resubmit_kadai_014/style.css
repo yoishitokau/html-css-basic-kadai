@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+/*common*/
+html {
+  /*font-size: 125%;*/
+  font-size: 20px;
+}
+body {
+  font-family: "Arial","Meiryo",sans-serif;
+}
+
+/*header*/
+.google-fonts {
+  text-align: center;
+  letter-spacing: 1.5em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: 3px solid rgb(115, 115, 114);
+  font-family: "Josefin Sans", sans-serif;
+}
+h1 {
+  /*font-size: 250%;*/
+  font-size: 2rem;
+}
+.sample {
+  color: #87CEEB;
+}
+.sample2 {
+  color: rgb(255,192,203);
+}
+
+/*main*/
+#parent {
+  font-weight: bold;
+}
+.text-pink {
+  color: rgb(255, 192, 203);
+  text-align: center;
+}
+.text-skyblue {
+  color: #87CEEB;
+  text-align: center;
+}
+.answer {
+  text-align: center;
+}
